@@ -1,2 +1,3 @@
-# Time-management--python-
-A Time management desktop application built using Python and Tkinter 
+manage-session-python
+Manage Session – a Pomodoro-based time management app using Python & Tkinter
+
